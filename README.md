@@ -1,5 +1,5 @@
-gdi-boulder-servers-intro-node-uploader
-=======================================
+node-uploader
+=============
 
 
 ```sh
