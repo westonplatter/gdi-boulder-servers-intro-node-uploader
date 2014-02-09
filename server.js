@@ -6,7 +6,7 @@ var formidable = require('formidable'),
     
 app = express();
 server = http.createServer(app);
-server.listen(7020);
+server.listen(9001);
 
 var uploadDir = __dirname+"/uploads";
 
