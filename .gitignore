@@ -1,2 +1,8 @@
+# ensure there is an uploads folder in the git repo
+!uploads/.gitkeep
+
+# don't version control user uploads
 uploads
+
+# don't version control the Nodejs dependencies
 node_modules
